@@ -1,7 +1,6 @@
 streamlit
-pillow
 pandas
-plotly
+plotly.express
 matplotlib
 numpy
-seaborn
+json
